@@ -1,3 +1,2 @@
-src/go_path/cache/
-src/go_path/pkg/
-src/new_cache
+/src/go_path
+/src/new_cache
